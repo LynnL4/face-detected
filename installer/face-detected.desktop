@@ -1,0 +1,8 @@
+[Desktop Entry] 
+Type=Application
+Name=face-detected
+Exec=/mnt/hgfs/windows/installer/face-detected.sh
+Icon=/mnt/hgfs/windows/installer/Pyte_Data/icon.png
+Terminal=false 
+Encoding=UTF-8
+Version=1.0``
